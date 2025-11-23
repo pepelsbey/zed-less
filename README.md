@@ -1,6 +1,6 @@
 # zed-less
 
-LESS language support for [Zed](https://zed.dev).
+[Less](https://lesscss.org/) language support for [Zed](https://zed.dev).
 
 ## Features
 

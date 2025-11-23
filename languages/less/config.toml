@@ -1,4 +1,4 @@
-name = "LESS"
+name = "Less"
 grammar = "less"
 path_suffixes = ["less"]
 block_comment = ["/* ", " */"]
